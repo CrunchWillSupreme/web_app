@@ -1,0 +1,4 @@
+to activate virtual env:
+open Anaconda prompt, go to folder C:\users\willh\web_app
+type: conda activate myenv
+Open Spyder by typing spyder
