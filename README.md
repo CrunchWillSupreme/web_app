@@ -1,3 +1,3 @@
 # web_app
 Flask web app
-\nhttps://training.talkpython.fm/account/
+https://training.talkpython.fm/account/
